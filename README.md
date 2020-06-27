@@ -4,6 +4,9 @@ JobPortal-Web-App-on-AWS  Tech used : java, Spring (DI, Security ,MVC ) Angular 
 
 #Working Demo of the application in localhost 
 
+https://www.youtube.com/watch?v=P1CoaVr-vuM
+
+
 ```
 login as : ec2-user
 sudo yum putty
