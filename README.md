@@ -63,7 +63,71 @@ The application has below features:
 ```
 
 
-![alt text](http://url/to/img.png)
+
+
+
+
+![alt text](https://github.com/DhanaTontanahal/JobPortal-Web-App-on-AWS/blob/master/viewjob.PNG)
+
+
+![alt text](https://github.com/DhanaTontanahal/JobPortal-Web-App-on-AWS/blob/master/showinterestinjob.PNG)
+
+
+![alt text](https://github.com/DhanaTontanahal/JobPortal-Web-App-on-AWS/blob/master/show-interest-by-job-enabler.PNG)
+
+
+
+![alt text](https://github.com/DhanaTontanahal/JobPortal-Web-App-on-AWS/blob/master/show-inetrest-ping.PNG)
+
+
+![alt text](https://github.com/DhanaTontanahal/JobPortal-Web-App-on-AWS/blob/master/searchjobs.PNG)
+
+
+![alt text](https://github.com/DhanaTontanahal/JobPortal-Web-App-on-AWS/blob/master/recruit.PNG)
+
+
+![alt text](https://github.com/DhanaTontanahal/JobPortal-Web-App-on-AWS/blob/master/jobportal4.PNG)
+
+
+
+![alt text](https://github.com/DhanaTontanahal/JobPortal-Web-App-on-AWS/blob/master/jobportal3.PNG)
+
+
+![alt text](https://github.com/DhanaTontanahal/JobPortal-Web-App-on-AWS/blob/master/jobportal2.PNG)
+
+
+![alt text](https://github.com/DhanaTontanahal/JobPortal-Web-App-on-AWS/blob/master/jobportal1.PNG)
+
+
+
+![alt text](https://github.com/DhanaTontanahal/JobPortal-Web-App-on-AWS/blob/master/jobportal-register.PNG)
+
+
+![alt text](https://github.com/DhanaTontanahal/JobPortal-Web-App-on-AWS/blob/master/jobporatl5.PNG)
+
+
+![alt text](https://github.com/DhanaTontanahal/JobPortal-Web-App-on-AWS/blob/master/applyjob--notifybyemail.PNG)
+
+
+![alt text](https://github.com/DhanaTontanahal/JobPortal-Web-App-on-AWS/blob/master/vire-profile.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
