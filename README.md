@@ -42,15 +42,28 @@ cd bin
 ./startup.sh
 ```
 
+```
 The application has below features:
 1.)Job Seekers , Job Enablers Authorized login/Role based access/actions
+
 2.)Direct Email communication between job seekers and job enablers/job posters
+
 3.)Job Seekers can View a particular joob posted by enabler and click apply , a notificationmail is sent
+
 4.)End to end encryption of passwords
+
 5.)Create real time post 
+
 6.)Reset password/forgot password functinality with email notifications
+
 7.)Job Enablers can view and download CV of teh job seekers
+
 8.)Job seeekers can customize their View by profile page which is seen by others.
+
+```
+
+
+![alt text](http://url/to/img.png)
 
 
 
