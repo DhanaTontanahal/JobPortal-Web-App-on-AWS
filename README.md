@@ -1,6 +1,7 @@
 # JobPortal-Web-App-on-AWS
 JobPortal-Web-App-on-AWS  Tech used : java, Spring (DI, Security ,MVC ) Angular JS , Hibernate, Oracle DB
 
+This is a private repo , please email me for more details .
 
 #Working Demo of the application in localhost 
 
