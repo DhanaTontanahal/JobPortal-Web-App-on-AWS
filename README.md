@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=P1CoaVr-vuM
 
 ```
 login as : ec2-user
-sudo yum putty
+sudo yum update
 java -version
 cd ../..
 cd usr
